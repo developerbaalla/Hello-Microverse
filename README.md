@@ -2,8 +2,7 @@
 
 # Project Name
 
-> Hello Microverse!.
-
+> Hello Microverse! project.
 
 ## Built With
 
@@ -42,6 +41,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
+<<<<<<< HEAD
+- GitHub: [@githubhandle](https://github.com/developerbaalla)
+=======
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
@@ -51,6 +53,7 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+>>>>>>> main
 
 ## 🤝 Contributing
 
