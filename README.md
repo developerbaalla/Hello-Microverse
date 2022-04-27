@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 - chrome
 
 ## Setup
-git clone https://github.com/Kirabo19/Hello-Microverse.git
+git clone https://github.com/developerbaalla/Hello-Microverse.git
 
 cd Hello-Microverse
 
@@ -30,9 +30,9 @@ code.
 
 👤 **Author1**
 
-- GitHub: [@kirabo19](https://github.com/githubhandle)
-- Twitter: [@Ndimuku](https://twitter.com/twitterhandle)
-- LinkedIn: [kapojames](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@developerbaalla](https://github.com/developerbaalla)
+- Twitter: [@MohamedBaalla15](https://twitter.com/MohamedBaalla15)
+- LinkedIn: [mohamed-baalla-18039619a](https://linkedin.com/in/mohamed-baalla-18039619a)
 
 
 
